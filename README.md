@@ -59,4 +59,4 @@ Model hyperparameter optimization showed:
 
 Author:
 
-[https://github.com/LionelRoxas]Lionel Roxas
+[https://github.com/LionelRoxas/]Lionel Roxas
